@@ -13,3 +13,13 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.link{
+  color: white;
+  text-decoration: none;
+  margin-left: 2rem;
+}
+
+.active{
+  color:cadetblue;
+}

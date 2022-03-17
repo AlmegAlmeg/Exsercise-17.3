@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
+import PageTitle from '../components/PageTitle'
 
 class Homepage extends Component {
     state = {  } 
     render() { 
         return (
             <>
-                In Homepage
+                <PageTitle title='home' />
             </>
         );
     }
